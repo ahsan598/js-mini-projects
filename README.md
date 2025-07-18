@@ -17,7 +17,9 @@ This repository contains a collection of mini projects developed using **Java (w
 > 
 > A classic Snake Game built using Java Swing. Developed to gain hands-on experience with event-driven programming and GUI design in Java.
 
-![Snake Game Screenshot](https://github.com/user-attachments/assets/c1c1b0c1-8c6e-4419-ad70-b342069a2197)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c1c1b0c1-8c6e-4419-ad70-b342069a2197" alt="Snake Game" width="400"/>
+</div>
 
 
 ### ⏰ Digital Clock
