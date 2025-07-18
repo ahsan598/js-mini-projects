@@ -1,4 +1,4 @@
-# 🛠️ JS & Java Mini Projects
+# 🛠️ Java & JavaScript Mini Projects
 
 [![Java](https://img.shields.io/badge/language-Java-orange)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/language-JavaScript-blue)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -75,7 +75,7 @@ This repository contains a collection of mini projects developed using **Java (w
   <img src="https://github.com/user-attachments/assets/1c365d94-7e47-409d-a094-ddb1566465fa" alt="Scientific Calculator" width="400"/>
 </div>
 
----
+
 
 ## 📦 Technologies Used
 
