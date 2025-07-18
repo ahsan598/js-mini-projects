@@ -1,6 +1,6 @@
 # 🛠️ JS & Java Mini Projects
 
-This repository contains a collection of mini projects developed using Java (with Swing for GUI) and JavaScript (vanilla). These projects were created as part of my learning journey to strengthen concepts in GUI programming, web development, and API integration.
+This repository contains a collection of mini projects developed using **Java (with Swing for GUI)** and **JavaScript (Vanilla)**. These projects were created as part of my learning journey to strengthen concepts in GUI programming, web development, and API integration.
 
 
 ## 📁 Projects Included
@@ -40,13 +40,14 @@ This repository contains a collection of mini projects developed using Java (wit
 > 
 > A full-featured student management desktop application. Supports adding, updating, viewing, and deleting student records from a MySQL database. Built to practice Java’s database connectivity and GUI interaction.
 
+---
 
 ## 📦 Technologies Used
 
-- Java – For building desktop applications using Swing
-- JavaScript (Vanilla) – For dynamic and interactive web projects
-- HTML5 & CSS3 – For web structure and styling
-- JDBC & MySQL – For database operations in Java-based projects
+- **Java** – For building desktop applications using Swing
+- **JavaScript (Vanilla)** – For dynamic and interactive web projects
+- **HTML5 & CSS3** – For web structure and styling
+- **JDBC & MySQL** – For database operations in Java-based projects
 
 
 ## 🚀 Getting Started
@@ -57,5 +58,5 @@ This repository contains a collection of mini projects developed using Java (wit
     cd js-mini-projects
     ```
 2. Open individual project folders to explore the code.
-3. For Java projects, use any IDE like **IntelliJ or Eclipse** to run `.java` files. Ensure MySQL is running for database-dependent apps.
-4. For JavaScript projects, open `index.html` in your browser.
+3. For **Java** projects, use any IDE like **IntelliJ or Eclipse** to run `.java` files. Ensure MySQL is running for database-dependent apps.
+4. For **JavaScript** projects, open `index.html` in your browser.
