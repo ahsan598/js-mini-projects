@@ -10,6 +10,15 @@
 This repository contains a collection of mini projects developed using **Java (with Swing for GUI)** and **JavaScript (Vanilla)**. These projects were created as part of my learning journey to strengthen concepts in GUI programming, web development, and API integration.
 
 
+## 📦 Technologies Used
+
+- **Java** – For building desktop applications using Swing
+- **JavaScript (Vanilla)** – For dynamic and interactive web projects
+- **HTML5 & CSS3** – For web structure and styling
+- **JDBC & MySQL** – For database operations in Java-based projects
+
+---
+
 ## 📁 Projects Included
 
 ### 🎮 Snake Game
@@ -75,14 +84,6 @@ This repository contains a collection of mini projects developed using **Java (w
   <img src="https://github.com/user-attachments/assets/1c365d94-7e47-409d-a094-ddb1566465fa" alt="Scientific Calculator" width="400"/>
 </div>
 
-
-
-## 📦 Technologies Used
-
-- **Java** – For building desktop applications using Swing
-- **JavaScript (Vanilla)** – For dynamic and interactive web projects
-- **HTML5 & CSS3** – For web structure and styling
-- **JDBC & MySQL** – For database operations in Java-based projects
 
 ---
 
