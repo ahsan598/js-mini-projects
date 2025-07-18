@@ -1,5 +1,12 @@
 # 🛠️ JS & Java Mini Projects
 
+[![Java](https://img.shields.io/badge/language-Java-orange)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/language-JavaScript-blue)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.shields.io/badge/database-MySQL-yellow)](https://www.mysql.com/)
+[![Swing](https://img.shields.io/badge/GUI-Java%20Swing-green)](https://docs.oracle.com/javase/tutorial/uiswing/)
+[![Learning Project](https://img.shields.io/badge/type-Learning%20Project-purple)](#)
+
+
 This repository contains a collection of mini projects developed using **Java (with Swing for GUI)** and **JavaScript (Vanilla)**. These projects were created as part of my learning journey to strengthen concepts in GUI programming, web development, and API integration.
 
 
@@ -9,6 +16,8 @@ This repository contains a collection of mini projects developed using **Java (w
 > Tech: Java, Swing
 > 
 > A classic Snake Game built using Java Swing. Developed to gain hands-on experience with event-driven programming and GUI design in Java.
+
+![Snake Game Screenshot](screenshots/snake-game.png)
 
 
 ### ⏰ Digital Clock
