@@ -17,13 +17,15 @@ This repository contains a collection of mini projects developed using **Java (w
 > 
 > A classic Snake Game built using Java Swing. Developed to gain hands-on experience with event-driven programming and GUI design in Java.
 
-![Snake Game Screenshot](screenshots/snake-game.png)
+![Snake Game Screenshot](https://github.com/user-attachments/assets/c1c1b0c1-8c6e-4419-ad70-b342069a2197)
 
 
 ### ⏰ Digital Clock
 > Tech: Java, Swing
 > 
 > A basic digital clock built in Java using Swing components. It displays the current system time and updates every second. Created for GUI programming practice.
+
+![Digital Clock Screenshot](https://github.com/user-attachments/assets/9a26b2a8-89f6-4e36-a204-681dab14f724)
 
 
 ### 🌦️ Weather WebApp
@@ -44,7 +46,7 @@ This repository contains a collection of mini projects developed using **Java (w
 > A GUI-based scientific calculator developed in Java. It includes standard arithmetic operations along with speed, distance, and time calculations under the "File" menu. Made to explore complex Swing layouts and event handling.
 
 
-### 📋 Student Details
+### 📋 Student Management System
 > Tech: Java, Swing, JDBC, MySQL
 > 
 > A full-featured student management desktop application. Supports adding, updating, viewing, and deleting student records from a MySQL database. Built to practice Java’s database connectivity and GUI interaction.
