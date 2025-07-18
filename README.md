@@ -3,27 +3,45 @@
 This repository contains a collection of mini projects developed using Java (with Swing for GUI) and JavaScript (vanilla). These projects were created as part of my learning journey to strengthen concepts in GUI programming, web development, and API integration.
 
 
-### 📁 Projects Included
+## 📁 Projects Included
 
-**🎮 Snake Game**
+### 🎮 Snake Game
 > Tech: Java, Swing
 > 
 > A classic Snake Game built using Java Swing. Developed to gain hands-on experience with event-driven programming and GUI design in Java.
 
-**⏰ Digital Clock**
-- A real-time digital clock that updates every second, displaying the current time.
 
-**🌦️ Weather WebApp**
-- A simple weather app that fetches and displays real-time weather data using a public API.
-
-**🎹 Virtual Keyboard**
-- An interactive on-screen keyboard that simulates typing and keypress feedback.
-
-**📋 Student Details**
-- A form-based app to input, validate, and display student information dynamically.
+### ⏰ Digital Clock
+> Tech: Java, Swing
+> 
+> A basic digital clock built in Java using Swing components. It displays the current system time and updates every second. Created for GUI programming practice.
 
 
-### 📦 Technologies Used
+### 🌦️ Weather WebApp
+> Tech: HTML, CSS, Vanilla JavaScript
+> 
+> A simple weather application that fetches real-time weather data from an API and displays it based on the user's input. Great practice for working with APIs and DOM manipulation.
+
+
+### 🎹 Virtual Keyboard
+> Tech: HTML, CSS, Vanilla JavaScript
+> 
+> An on-screen virtual keyboard that simulates keypresses. Designed for improving DOM handling and event-based programming using JavaScript.
+
+
+### 🧮 Scientific Calculator
+> Tech: Java, Swing
+> 
+> A GUI-based scientific calculator developed in Java. It includes standard arithmetic operations along with speed, distance, and time calculations under the "File" menu. Made to explore complex Swing layouts and event handling.
+
+
+### 📋 Student Details
+> Tech: Java, Swing, JDBC, MySQL
+> 
+> A full-featured student management desktop application. Supports adding, updating, viewing, and deleting student records from a MySQL database. Built to practice Java’s database connectivity and GUI interaction.
+
+
+## 📦 Technologies Used
 
 - Java – For building desktop applications using Swing
 - JavaScript (Vanilla) – For dynamic and interactive web projects
@@ -31,7 +49,7 @@ This repository contains a collection of mini projects developed using Java (wit
 - JDBC & MySQL – For database operations in Java-based projects
 
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 
 1. Clone the repository
     ```sh
