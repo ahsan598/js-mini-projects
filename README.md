@@ -27,7 +27,9 @@ This repository contains a collection of mini projects developed using **Java (w
 > 
 > A basic digital clock built in Java using Swing components. It displays the current system time and updates every second. Created for GUI programming practice.
 
-![Digital Clock Screenshot](https://github.com/user-attachments/assets/9a26b2a8-89f6-4e36-a204-681dab14f724)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9a26b2a8-89f6-4e36-a204-681dab14f724" alt="Digital Clock" width="400"/>
+</div>
 
 
 ### 🌦️ Weather WebApp
@@ -36,10 +38,20 @@ This repository contains a collection of mini projects developed using **Java (w
 > A simple weather application that fetches real-time weather data from an API and displays it based on the user's input. Great practice for working with APIs and DOM manipulation.
 
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e7f3fec4-270a-4c5e-bae0-66eee79af2fb" alt="Weather WebApp" width="400"/>
+</div>
+
+
 ### 🎹 Virtual Keyboard
 > Tech: HTML, CSS, Vanilla JavaScript
 > 
 > An on-screen virtual keyboard that simulates keypresses. Designed for improving DOM handling and event-based programming using JavaScript.
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/857cf152-537a-480b-93c3-03a82d6dedeb" alt="Virtual Keyboard" width="400"/>
+</div>
 
 
 ### 🧮 Scientific Calculator
@@ -48,10 +60,20 @@ This repository contains a collection of mini projects developed using **Java (w
 > A GUI-based scientific calculator developed in Java. It includes standard arithmetic operations along with speed, distance, and time calculations under the "File" menu. Made to explore complex Swing layouts and event handling.
 
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0893df1e-064b-4f7f-9e61-aaeaa6ff30dc" alt="Scientific Calculator" width="400"/>
+</div>
+
+
 ### 📋 Student Management System
 > Tech: Java, Swing, JDBC, MySQL
 > 
 > A full-featured student management desktop application. Supports adding, updating, viewing, and deleting student records from a MySQL database. Built to practice Java’s database connectivity and GUI interaction.
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1c365d94-7e47-409d-a094-ddb1566465fa" alt="Scientific Calculator" width="400"/>
+</div>
 
 ---
 
@@ -62,6 +84,7 @@ This repository contains a collection of mini projects developed using **Java (w
 - **HTML5 & CSS3** – For web structure and styling
 - **JDBC & MySQL** – For database operations in Java-based projects
 
+---
 
 ## 🚀 Getting Started
 
