@@ -1,22 +1,46 @@
-# Student Details
+# 🎓 Student Details Management App (Java + Swing + JDBC)
 
-This project has been developed to manage student details.This project has been built using Java, Swing, JDBC and MySQL. This application can be used to add students details to database, update their details and delete it.
+A basic desktop application for managing student data using **Java Swing for GUI**, **JDBC for database connectivity**, and **MySQL** for persistent storage. It allows you to perform **CRUD operations** like Add, Update, and Delete student records.
 
- 
-# Requirements:
+### 🧰 Tech Stack
+- Java
+- Java Swing
+- JDBC
+- MySQL
 
-1. Java jdk 1.8 or above,
-2. Connector/j,
-3. XAMPP for creating localhost server for MySQL database,
-4. JDatechooser jar.
+### 🎯 Features
+- Add new student details (Name, Roll No, etc.)
+- Edit/update existing student data
+- Delete student records from the database
+- Clear and reset form fields
 
+### 🗂️ Database Requirements
 
-# Guidelines:
+**MySQL Table Example:**
+```sql
+CREATE TABLE students (
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  name VARCHAR(100),
+  roll_no VARCHAR(50),
+  email VARCHAR(100),
+  course VARCHAR(100)
+);
+```
 
-1. Make sure to start Apache and MySQL from xampp control panel before running the application,
-2. The database name is 'elite' and table 'record'.
+### 📸 Screenshot
+![student-mang-system](https://github.com/ahsan598/js-mini-projects/blob/master/snake-game/screenshots/snake-game.png)
 
+### 🚀 How to Run
 
+1. Set up a MySQL database and update JDBC connection string in the code.
+2. Open the project in your Java IDE.
+3. Run the main class.
 
+```bash
+javac StudentDetailsApp.java
+java StudentDetailsApp
+```
 
-- It has been developed only for practice purpose only.
+### 📌 Notes
+- Ensure MySQL server is running and credentials are correct
+- Demonstrates Java database connectivity and GUI-based CRUD operations

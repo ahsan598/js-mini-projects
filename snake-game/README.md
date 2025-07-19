@@ -18,9 +18,9 @@ A simple Snake Game built in Java using Swing for UI and multithreading for the 
 ### 🚀 How to Run
 1. Clone the repository
 2. Open the project in any Java IDE (like IntelliJ or Eclipse)
-3. Compile and run the `Snake.java` file
+3. Compile and run the `Main.java` file
 
 ```sh
-javac Snake.java
-java Snake
+javac SnakeGame.java
+java SnakeGame
 ```

@@ -1,7 +1,24 @@
-# Virtual Keyboard
+# ⌨️ Virtual Keyboard (JavaScript)
 
+A virtual keyboard implemented using **Vanilla JavaScript** and styled with HTML/CSS. It mimics a real keyboard layout and is intended for frontend practice.
 
-This is a simple Virtual Keyboard using JS.
+### 🧰 Tech Stack
+- HTML
+- CSS
+- JavaScript
 
+### 🎯 Features
+- Interactive keys that highlight on click
+- Displays typed characters in a text area
+- Simple responsive layout
 
-It is just for practice purpose.
+### 📸 Screenshot
+![virtual-keyboard](https://github.com/ahsan598/js-mini-projects/blob/master/snake-game/screenshots/snake-game.png)
+
+### 🚀 How to Run
+
+1. Clone or download the project
+2. Open `index.html` in your browser
+
+### 📌 Notes
+- Great for beginners learning DOM manipulation, event listeners, and CSS styling

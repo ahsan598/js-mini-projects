@@ -1,9 +1,28 @@
-# Weather Web-App using Vanilla JS
+# 🌦️ Weather Web-App (Vanilla JavaScript)
 
-This is  a Weather Web-App using Vanilla JavaScript
+A weather forecast application built using **Vanilla JavaScript**, HTML, and CSS. It fetches real-time weather data using the **OpenWeatherMap API** and updates the background based on weather conditions. Built as a practice project to understand API integration and DOM manipulation.
 
-In this app, I have fetched the data from openweathermap.org  for current weather report and according to the weather the background will change.
-You have to use your API to see the weather report.
+### 🧰 Tech Stack
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- OpenWeatherMap API
 
+### 🎯 Features
+- Real-time weather data for any city
+- Dynamic background based on weather condition
+- Temperature, humidity, wind speed display
+- User-friendly interface
 
-Hope you'll like this!
+### 📸 Screenshot
+![weather-webapp](https://github.com/ahsan598/js-mini-projects/blob/master/snake-game/screenshots/snake-game.png)
+
+### 🔧 How to Run
+
+1. Clone the repository
+2. Replace the placeholder API key with your own from [OpenWeatherMap](https://openweathermap.org/api)
+3. Open `index.html` in any browser
+
+```js
+const apiKey = "YOUR_API_KEY_HERE";
+```
