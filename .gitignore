@@ -1,0 +1,84 @@
+# ========== Java ==========
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.swp
+
+# Build folders
+bin/
+build/
+target/
+out/
+
+# Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VSCode
+.vscode/
+
+# ========== JavaScript, HTML, CSS ==========
+node_modules/
+npm-debug.log
+yarn.lock
+dist/
+coverage/
+*.map
+
+# ========== OpenAPI / Swagger ==========
+# Ignore generated client/server code (if applicable)
+generated/
+docs/
+openapi-generated/
+
+# ========== General ==========
+*.bak
+*.tmp
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# OS-specific
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
