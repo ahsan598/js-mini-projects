@@ -13,7 +13,7 @@ A virtual keyboard implemented using **Vanilla JavaScript** and styled with HTML
 - Simple responsive layout
 
 ### 📸 Screenshot
-![virtual-keyboard](https://github.com/ahsan598/js-mini-projects/blob/master/snake-game/screenshots/snake-game.png)
+![virtual-keyboard](https://github.com/ahsan598/js-mini-projects/blob/master/virtual-keyboard/screenshots/virtual-keyboard.png)
 
 ### 🚀 How to Run
 

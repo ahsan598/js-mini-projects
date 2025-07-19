@@ -15,7 +15,7 @@ A weather forecast application built using **Vanilla JavaScript**, HTML, and CSS
 - User-friendly interface
 
 ### 📸 Screenshot
-![weather-webapp](https://github.com/ahsan598/js-mini-projects/blob/master/snake-game/screenshots/snake-game.png)
+![weather-webapp](https://github.com/ahsan598/js-mini-projects/blob/master/weather-webapp/screenshots/weather-webapp.png)
 
 ### 🔧 How to Run
 

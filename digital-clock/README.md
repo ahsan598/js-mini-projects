@@ -11,7 +11,7 @@ A simple digital clock built using **Java Swing**. It displays the current syste
 - Lightweight and responsive window
 
 ### 📸 Screenshot
-![digital-clock](https://github.com/ahsan598/js-mini-projects/blob/master/snake-game/screenshots/snake-game.png)
+![digital-clock](https://github.com/ahsan598/js-mini-projects/blob/master/digital-clock/screenshots/digital-clock.png)
 
 ### 🚀 How to Run
 
