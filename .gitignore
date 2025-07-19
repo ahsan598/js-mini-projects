@@ -59,6 +59,9 @@ coverage/
 generated/
 docs/
 openapi-generated/
+openapi-client/
+openapi-server/
+
 
 # ========== General ==========
 *.bak
