@@ -81,7 +81,18 @@ This repository contains a collection of mini projects developed using **Java (w
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c365d94-7e47-409d-a094-ddb1566465fa" alt="Scientific Calculator" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1c365d94-7e47-409d-a094-ddb1566465fa" alt="Student Management System" width="400"/>
+</div>
+
+
+### ✊✋✌️ Rock Paper Scissors Game (JavaScript)
+> Tech: HTML, CSS, Vanilla JavaScript
+> 
+> A classic **Rock Paper Scissors** game where the player competes against the computer. Designed to enhance understanding of DOM manipulation, conditional logic, and event-driven programming using JavaScript.
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b69aa7c9-0c66-42b8-b8dc-4711714c282d" alt="Rock Paper Scissors" width="400"/>
 </div>
 
 
