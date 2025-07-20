@@ -28,7 +28,7 @@ CREATE TABLE students (
 ```
 
 ### 📸 Screenshot
-![student-mang-system](https://github.com/ahsan598/js-mini-projects/blob/master/student-management-system/screenshots/student-management-system.png)
+![student-mang-system](https://github.com/ahsan598/js-mini-projects/blob/master/JAVA/student-management-system/screenshots/student-management-system.png)
 
 ### 🚀 How to Run
 

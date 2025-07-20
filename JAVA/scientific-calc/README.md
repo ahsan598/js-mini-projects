@@ -13,7 +13,7 @@ A scientific calculator GUI application built in Java using Swing. It supports b
 - Simple GUI layout using panels and buttons
 
 ### 📸 Screenshot
-![scientific-calc](https://github.com/ahsan598/js-mini-projects/blob/master/scientific-calc/screenshots/scientific-calc.png)
+![scientific-calc](https://github.com/ahsan598/js-mini-projects/blob/master/JAVA/scientific-calc/screenshots/scientific-calc.png)
 
 ### 🚀 How to Run
 

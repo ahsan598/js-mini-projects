@@ -15,7 +15,7 @@ A simple and fun **Rock Paper Scissors** game built using **Vanilla JavaScript**
 - Responsive design (if included)
 
 ### 📸 Screenshot
-![rock-paper-scissor](https://github.com/ahsan598/js-mini-projects/blob/master/rock-paper-scissor/screenshots/rock-paper-scissor.png)
+![rock-paper-scissor](https://github.com/ahsan598/js-mini-projects/blob/master/JavaScript/rock-paper-scissor/screenshots/rock-paper-scissor.png)
 
 ### 🚀 How to Run
 

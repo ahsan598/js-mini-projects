@@ -13,7 +13,7 @@ A simple Snake Game built in Java using Swing for UI and multithreading for the 
 - Thread-based game loop
 
 ### 📸 Screenshot
-![snake-game](https://github.com/ahsan598/js-mini-projects/blob/master/snake-game/screenshots/snake-game.png)
+![snake-game](https://github.com/ahsan598/js-mini-projects/blob/master/JAVA/snake-game/screenshots/snake-game.png)
 
 ### 🚀 How to Run
 1. Clone the repository
