@@ -1,21 +1,22 @@
-# 🛠️ Java & JavaScript Mini Projects
+# 🎓 Java Swing, JavaScript MySQL Mini Projects (Graduation Practice)
 
-[![Java](https://img.shields.io/badge/language-Java-orange)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/language-JavaScript-blue)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://img.shields.io/badge/database-MySQL-yellow)](https://www.mysql.com/)
-[![Swing](https://img.shields.io/badge/GUI-Java%20Swing-green)](https://docs.oracle.com/javase/tutorial/uiswing/)
-[![Learning Project](https://img.shields.io/badge/type-Learning%20Project-purple)](#)
+
+![Java](https://img.shields.io/badge/Java-Swing-blue?logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-DOM-yellow?logo=javascript)
+![Mini Projects](https://img.shields.io/badge/Mini--Projects-Graduation--Level-green)
+![Learning Purpose](https://img.shields.io/badge/Purpose-Learning-orange)
 
 
 This repository contains a collection of mini projects developed using **Java (with Swing for GUI)** and **JavaScript (Vanilla)**. These projects were created as part of my learning journey to strengthen concepts in GUI programming, web development, and API integration.
 
 
-## 📦 Technologies Used
+### 📚 Key Topics Covered
 
-- **Java** – For building desktop applications using Swing
-- **JavaScript (Vanilla)** – For dynamic and interactive web projects
+- **Java Swing** – Desktop GUI development (event handling, layouts, components)
+- **JavaScript** – DOM manipulation, form validation, interactive elements
+- **MySQL** – Database design, CRUD operations, basic SQL joins
 - **HTML5 & CSS3** – For web structure and styling
-- **JDBC & MySQL** – For database operations in Java-based projects
+- **Connectivity** – Java JDBC and simple JS-MySQL workflows (where applicable)
 
 ---
 
@@ -94,17 +95,3 @@ This repository contains a collection of mini projects developed using **Java (w
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b69aa7c9-0c66-42b8-b8dc-4711714c282d" alt="Rock Paper Scissors" width="400"/>
 </div>
-
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository
-    ```sh
-    git clone https://github.com/your-username/js-mini-projects.git 
-    cd js-mini-projects
-    ```
-2. Open individual project folders to explore the code.
-3. For **Java** projects, use any IDE like **IntelliJ or Eclipse** to run `.java` files. Ensure MySQL is running for database-dependent apps.
-4. For **JavaScript** projects, open `index.html` in your browser.
