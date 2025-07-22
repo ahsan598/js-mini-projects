@@ -1,10 +1,10 @@
 # 🎓 Java Swing, JavaScript MySQL Mini Projects (Graduation Practice)
 
 
-![Java](https://img.shields.io/badge/Java-Swing-blue?logo=java)
+![Java](https://img.shields.io/badge/Java-Swing-red?logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-DOM-yellow?logo=javascript)
-![Mini Projects](https://img.shields.io/badge/Mini--Projects-Graduation--Level-green)
-![Learning Purpose](https://img.shields.io/badge/Purpose-Learning-orange)
+![Mini Projects](https://img.shields.io/badge/Mini--Projects-Graduation--Level-orange)
+
 
 
 This repository contains a collection of mini projects developed using **Java (with Swing for GUI)** and **JavaScript (Vanilla)**. These projects were created as part of my learning journey to strengthen concepts in GUI programming, web development, and API integration.
