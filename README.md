@@ -3,20 +3,70 @@
 
 ![Java](https://img.shields.io/badge/Java-Swing-red?logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-DOM-blue?logo=javascript)
-![Mini Projects](https://img.shields.io/badge/Mini--Projects-Graduation--Level-orange)
+![Mini Projects](https://img.shields.io/badge/Mini--Projects-Graduation--orange)
 
 
+This collection of **mini projects** was developed during my graduation practice to enhance my understanding of:
 
-This repository contains a collection of mini projects developed using **Java (with Swing for GUI)** and **JavaScript (Vanilla)**. These projects were created as part of my learning journey to strengthen concepts in GUI programming, web development, and API integration.
+- Building desktop applications using Java Swing
+- Connecting Java applications to MySQL using JDBC
+- Creating interactive frontend interfaces using JavaScript
+- Understanding full-stack development at a beginner level
+
+These projects reflect my ability to integrate frontend and backend components, apply object-oriented principles, and follow real-world use cases.
+
+
+### 📑 Table of Contents
+
+- [Technologies Used](#-technologies-used)
+- [Key Topics Covered](#-key-topics-covered)
+- [Project Structure](#-project-structure)
+- [Projects Included](#-projects-included)
+- [Getting Started](#-getting-started)
+- [Sample Login Credentials](#-sample-login-credentials)
+
+
+### 🛠️ Technologies Used
+
+| Language / Tool         | Purpose                            |
+| ----------------------- | ---------------------------------- |
+| Java                    | Application Logic, GUI (Swing)     |
+| JavaScript              | Web Interactivity, Form Validation |
+| MySQL                   | Database Management                |
+| JDBC                    | Java–MySQL Connectivity            |
+| HTML5/CSS3              | Web Design                         |
+| NetBeans / IntelliJ     | Java Development Environment       |
+| XAMPP / MySQL Workbench | Database Tools                     |
+
 
 
 ### 📚 Key Topics Covered
 
-- **Java Swing** – Desktop GUI development (event handling, layouts, components)
-- **JavaScript** – DOM manipulation, form validation, interactive elements
-- **MySQL** – Database design, CRUD operations, basic SQL joins
-- **HTML5 & CSS3** – For web structure and styling
-- **Connectivity** – Java JDBC and simple JS-MySQL workflows (where applicable)
+- **Java Swing** – Desktop GUI development (event handling, layout managers, custom dialogs)
+- **JavaScript** – DOM manipulation, form validation, interactivity
+- **MySQL** – Relational database design, CRUD operations, SQL joins
+- **HTML5 & CSS3** – Basic frontend structure and styling
+- **Connectivity**
+ - Java JDBC (Java ↔ MySQL)
+ - JavaScript ↔ Backend (if applicable)
+
+
+### 📂 Project Structure
+
+```sh
+/JS-Mini-Projects
+│
+├── JAVA/
+│   ├── Student-Management-System/
+│   ├── Digital-Clock/
+│   ├── Scientific-Calc/
+│   └── Snake-Game/
+├── JavaScript/
+│   ├── Rock-Paper-Scissor/
+│   ├── Virtual-Keyboard/
+│   └── Weather-Webapp/
+└── README.md
+```
 
 ---
 
@@ -95,3 +145,35 @@ This repository contains a collection of mini projects developed using **Java (w
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b69aa7c9-0c66-42b8-b8dc-4711714c282d" alt="Rock Paper Scissors" width="400"/>
 </div>
+
+---
+
+### 🚀 Getting Started
+
+**1. Clone the Repository**
+  ```sh
+  git clone https://github.com/ahsan598/js-mini-projects.git
+  cd js-mini-projects
+  ```
+
+**2. Import Java Projects**
+- Use your preferred IDE (e.g., NetBeans, IntelliJ)
+- Configure the MySQL database credentials in the code
+
+
+**3. Run Web Projects**
+- Open the `.html` file in a browser
+- If connected to a backend, start the server (PHP/Node/Java, as applicable)
+
+**4. Setup MySQL Database**
+- Import the `.sql` files using MySQL Workbench or phpMyAdmin
+
+
+### 🔐 Sample Login Credentials
+
+| Role  | Username | Password |
+| ----- | -------- | -------- |
+| Admin | admin    | admin123 |
+| User  | user     | user123  |
+
+> You can change credentials directly from the MySQL database.
