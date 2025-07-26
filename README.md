@@ -2,23 +2,23 @@
 
 
 ![Java](https://img.shields.io/badge/Java-Swing-red?logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-DOM-blue?logo=javascript)
-![Mini Projects](https://img.shields.io/badge/Mini--Projects-Graduation--orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-DOM-yellow?logo=javascript)
+![Mini Projects](https://img.shields.io/badge/Mini-Projects--Graduation--orange)
 
 
-This collection of **mini projects** was developed during my graduation practice to enhance my understanding of:
+This collection of **mini projects** was developed during my **graduation** practice to enhance my understanding of:
 
 - Building desktop applications using Java Swing
 - Connecting Java applications to MySQL using JDBC
 - Creating interactive frontend interfaces using JavaScript
 - Understanding full-stack development at a beginner level
 
-These projects reflect my ability to integrate frontend and backend components, apply object-oriented principles, and follow real-world use cases.
+These projects reflect my ability to integrate **frontend and backend** components, apply object-oriented principles, and follow real-world use cases.
 
 
 ### 📑 Table of Contents
 
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#️-technologies-used)
 - [Key Topics Covered](#-key-topics-covered)
 - [Project Structure](#-project-structure)
 - [Projects Included](#-projects-included)
