@@ -3,7 +3,7 @@
 
 ![Java](https://img.shields.io/badge/Java-Swing-red?logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-DOM-yellow?logo=javascript)
-![Mini Projects](https://img.shields.io/badge/Mini-Projects--Graduation--orange)
+![Mini Projects](https://img.shields.io/badge/Mini--Project-Graduation-Level--orange)
 
 
 This collection of **mini projects** was developed during my **graduation** practice to enhance my understanding of:
@@ -19,11 +19,11 @@ These projects reflect my ability to integrate **frontend and backend** componen
 ### 📑 Table of Contents
 
 - [Technologies Used](#️-technologies-used)
-- [Key Topics Covered](#-key-topics-covered)
 - [Project Structure](#-project-structure)
 - [Projects Included](#-projects-included)
 - [Getting Started](#-getting-started)
 - [Sample Login Credentials](#-sample-login-credentials)
+- [Key Topics Covered](#-key-topics-covered)
 
 
 ### 🛠️ Technologies Used
@@ -37,18 +37,6 @@ These projects reflect my ability to integrate **frontend and backend** componen
 | HTML5/CSS3              | Web Design                         |
 | NetBeans / IntelliJ     | Java Development Environment       |
 | XAMPP / MySQL Workbench | Database Tools                     |
-
-
-
-### 📚 Key Topics Covered
-
-- **Java Swing** – Desktop GUI development (event handling, layout managers, custom dialogs)
-- **JavaScript** – DOM manipulation, form validation, interactivity
-- **MySQL** – Relational database design, CRUD operations, SQL joins
-- **HTML5 & CSS3** – Basic frontend structure and styling
-- **Connectivity**
- - Java JDBC (Java ↔ MySQL)
- - JavaScript ↔ Backend (if applicable)
 
 
 ### 📂 Project Structure
@@ -177,3 +165,15 @@ These projects reflect my ability to integrate **frontend and backend** componen
 | User  | user     | user123  |
 
 > You can change credentials directly from the MySQL database.
+
+
+
+### 📚 Key Topics Covered
+
+- **Java Swing** – Desktop GUI development (event handling, layout managers, custom dialogs)
+- **JavaScript** – DOM manipulation, form validation, interactivity
+- **MySQL** – Relational database design, CRUD operations, SQL joins
+- **HTML5 & CSS3** – Basic frontend structure and styling
+- **Connectivity**
+ - Java JDBC (Java ↔ MySQL)
+ - JavaScript ↔ Backend (if applicable)
