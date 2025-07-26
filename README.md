@@ -43,7 +43,6 @@ These projects reflect my ability to integrate **frontend and backend** componen
 
 ```sh
 /JS-Mini-Projects
-│
 ├── JAVA/
 │   ├── Student-Management-System/
 │   ├── Digital-Clock/
@@ -157,6 +156,8 @@ These projects reflect my ability to integrate **frontend and backend** componen
 - Import the `.sql` files using MySQL Workbench or phpMyAdmin
 
 
+---
+
 ### 🔐 Sample Login Credentials
 
 | Role  | Username | Password |
@@ -165,7 +166,6 @@ These projects reflect my ability to integrate **frontend and backend** componen
 | User  | user     | user123  |
 
 > You can change credentials directly from the MySQL database.
-
 
 
 ### 📚 Key Topics Covered
